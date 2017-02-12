@@ -6,7 +6,8 @@ img {
    WIDTH=150px;
    HEIGHT=100px;
    display: block;
-   margin: 0 auto;
+   margin-left: auto;
+   margin-right: auto;
 }
 h1{
  

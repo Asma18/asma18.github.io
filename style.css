@@ -2,9 +2,11 @@ body {
    background-color: lightblue;
 }
 
-img.center { 
+img { 
+   WIDTH=150px;
+   HEIGHT=100px;
    display: block;
-   margin 0 auto;
+   margin: 0 auto;
 }
 h1{
  

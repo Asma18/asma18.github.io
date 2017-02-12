@@ -4,19 +4,20 @@
 
 h1{
  
- font-style: Italianno;
+ 
  
  
 }
-.center-header {
+center-header {
+ font-style: Italianno;
  text-align:center;
  color: brown;
  font-size: 80 px;
 }
 
-.left-header{
+left-header{
  text-align:left;
  color: black;
- font-size: 40px
+ font-size: 40px;
 }
  

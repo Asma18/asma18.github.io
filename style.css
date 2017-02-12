@@ -1,13 +1,13 @@
- body {
+body {
    background-color: lightblue;
 }
 
 h1{
  
- font-family: "Italianno", Georgia, Serif;
+ font-family: Italianno;
  text-align:center;
  color: brown;
- font-size:260%;
+ font-size:250%;
 }
 
  

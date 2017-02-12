@@ -3,8 +3,8 @@ body {
 }
 
 img { 
-   WIDTH=250px;
-   HEIGHT=80px;
+   Width:250px;
+   height:80px;
    display: block;
    margin-left: auto;
    margin-right: auto;

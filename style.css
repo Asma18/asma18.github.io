@@ -3,10 +3,20 @@
 }
 
 h1{
- text-align:center;
+ 
  font-style: Italianno;
+ 
+ 
+}
+.center-header {
+ text-align:center;
  color: brown;
- font-size: 40;
+ font-size: 80 px;
 }
 
+.left-header{
+ text-align:left;
+ color: black;
+ font-size: 40px
+}
  

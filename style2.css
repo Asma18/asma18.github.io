@@ -7,8 +7,8 @@ body {
   
    
 img { 
-   width: 240px;
-   height: 200px;
+   width: 200px;
+   height: 150px;
    display: block;
    margin-left: auto;
    margin-right: auto;
@@ -27,4 +27,16 @@ h1{
  font-size: 80px;
 }
 
- 
+
+h2{
+  color: light blue;   
+}
+
+
+h3{
+  color: light blue;    
+}
+
+h4{
+ color: light blue; 
+}

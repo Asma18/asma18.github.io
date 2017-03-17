@@ -2,7 +2,7 @@ body {
     background-image: url("dark-black-cube-wide.jpg");
     background-size:cover;
     background-repeat: no-repeat;
-    background-position: absolute;
+    background-position: center center;
     background-attachment: fixed;
 }
   

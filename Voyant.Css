@@ -16,9 +16,10 @@ img {
 }
 
 h1{
+ font-family:verdana;
  text-align:center;
- color: Yellow;
- font-size: 80px;
+ color: White;
+ font-size: 65px;
 }
 
 h2{
@@ -35,7 +36,7 @@ p{
  
  font-family: Italianno;
  text-align:left;
- color: white;
+ color: yellow;
  font-size: 30px;
 }
 

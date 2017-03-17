@@ -18,15 +18,14 @@ img {
 h1{
  font-family:verdana;
  text-align:center;
- color: White;
+ color: red; 
  font-size: 65px;
 }
-
 h2{
  
  font-family: Italianno;
  text-align:center;
- color: red;
+ color: White; 
  font-size: 60px;
 }
 

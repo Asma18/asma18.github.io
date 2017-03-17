@@ -1,5 +1,5 @@
 body {
-    background-color: Turquoise;
+    background-image: url("great.jpg");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
@@ -45,8 +45,8 @@ p{
  
  font-family: Italianno;
  text-align:center;
- color: yellow;
- font-size: 30px;
+ color: blue;
+ font-size: 40px;
 }
 
 

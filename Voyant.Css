@@ -58,10 +58,6 @@ iframe {
     border: 0;
 }
 
-#borderimg {
-    -webkit-border-image: url(border.png) 30 round; 
-    -o-border-image: url(border.png) 30 round;
-    border-image: url(border.png) 30 round;
-}
+
 
 

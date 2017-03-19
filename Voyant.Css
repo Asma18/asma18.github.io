@@ -46,9 +46,10 @@ iframe {
     border: 0;
 }
 
-p {
-    border: 5px solid red;
+#borderimg {
+    -webkit-border-image: url(border.png) 30 round; 
+    -o-border-image: url(border.png) 30 round;
+    border-image: url(border.png) 30 round;
 }
-
 
 

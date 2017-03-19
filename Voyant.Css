@@ -20,9 +20,10 @@ h1{
 	font-size: 23px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 700;
-	line-height: 92px;
+	font-weight: 500;
+	line-height: 150px;
     color: crimson;
+	text-align: center;
 }
 
 h2{
@@ -30,7 +31,7 @@ h2{
  font-family: Italianno;
  text-align:center;
  color: White; 
- font-size: 45px;
+ font-size: 35px;
 }
 
    

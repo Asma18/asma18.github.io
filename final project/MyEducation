@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/mycvsub.css">
+	<link href='http://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'>
+    
+    <title>Asma Alameroo</title>
+    
+    
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+ 
+<body>
+
+<header>
+	<div class="wrapper">
+		<nav>
+			<ul>
+				<li><a href="homepage.html">Home</a></li>
+				<li><a href="welcomepage.html">welcome page</a></li>
+				<li><a href="myhometwon.html">My Hometown</a></li>
+				<li><a href="mycv.html"> My CV</a></li>
+				<li><a href="Asma's Blog.html"> Asma's Blog</a></li>
+				<li><a href="ResearchInterests.html">Research Interests </a></li>
+				<li><a href="myprojects.html">My Projects</a></li>
+				<li><a href="Publications.html">Publications</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+</header>
+
+	<marquee behavior="scroll" direction="left">Here is some scrolling text... right to left! </marquee>
+<div id="primary-content">
+	<div class="wrapper1">
+		<article>
+			<h3>My Education</h3>
+			<p>I was born and grew up in Bisha city which located in south part of Kingdom of Saudi Arabia. </p>
+</article>
+	</div>
+</div>
+<footer>
+	<div class="wrapper">
+		<div id="footer-info">
+			<p>Copyright 2017 Asma Alameroo. All rights reserved.</p>
+		</div>
+		
+		<div class="clear"></div>
+	</div>
+</footer>
+    
+</body>
+</html>

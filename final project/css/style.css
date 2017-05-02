@@ -15,9 +15,9 @@ p {
 
 
 
-h2 {
+h2 {font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
 	font-weight: 300;
-	color: #444;
+	color: yellow;
 	font-size: 55px;
 	text-transform: uppercase;
 	text-align: center;

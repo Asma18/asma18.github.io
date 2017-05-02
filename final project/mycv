@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/mycv.css">
+	<link href='http://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'>
+    
+    <title>Asma Alameroo</title>
+    
+    
+   
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+ 
+<body>
+
+<header>
+	<div class="wrapper">
+		<nav>
+			<ul>
+				<li><a href="homepage.html">Home</a></li>
+				<li><a href="welcomepage.html">welcome page</a></li>
+				<li><a href="myhometwon.html">My Hometown</a></li>
+				<li><a href="mycv.html"> My CV</a></li>
+				<li><a href="Asma's Blog.html"> Asma's Blog</a></li>
+				<li><a href="ResearchInterests.html">Research Interests </a></li>
+				<li><a href="myprojects.html">My Projects</a></li>
+				<li><a href="Publications.html">Publications</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+</header>
+
+	<marquee behavior="scroll" direction="left">Here is some scrolling text... right to left! </marquee>
+
+
+<div id="secondary-content">
+	<div class="wrapper">
+		<article style="background-image: url('images/education.jpg');">
+			<div class="overlay">
+				<h4>My Education</h4>
+				<p><small> write about my education.</small></p>
+				<a href="MyEducation.html"  class="more-link">View more</a>
+			</div>
+		</article>
+		
+		<article style="background-image: url('images/mywex.jpg');">
+			<div class="overlay">
+				<h4>Work Experience</h4>
+				<p><small> write about experience.</small></p>
+				<a href="workexperience.html" class="more-link">View more</a>
+			</div>
+		</article>
+		
+		<article style="background-image: url('images/lectures.jpg');">
+			<div class="overlay">
+				<h4>Subject and Lectures</h4>
+				<p><small> write about my subjects.</small></p>
+				<a href="subjectandlectures.html"  class="more-link">View more</a>
+			</div>
+		</article>
+		
+		<article style="background-image: url('images/workshop.jpeg');">
+			<div class="overlay">
+				<h4>Workshops</h4>
+				<p><small> write about my education.</small></p>
+				<a href="workshops.html" class="more-link">View more</a>
+			</div>
+		</article>
+		
+		<div class="clear"></div>
+	</div>
+</div>
+
+
+<footer>
+	<div class="wrapper">
+		<div id="footer-info">
+			<p>Copyright 2017 Asma Alameroo. All rights reserved.</p>
+		</div>
+		
+		<div class="clear"></div>
+	</div>
+</footer>
+    
+</body>
+</html>

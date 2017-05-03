@@ -111,7 +111,7 @@ header nav ul li a {
 	margin-right: 0px;
 }
 
-ul {
+ul.a {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -119,12 +119,12 @@ ul {
     
 }
 
-li {
+li.a {
     float: left;
     border-right:1px solid #bbb;
 }
 
-li:last-child {
+li.a:last-child {
     border-right: none;
 }
 
@@ -155,7 +155,7 @@ color: #000000	;
 }
 
 
-ul.a {
+ul.b {
 	list-style-type: square;
 	background-color:red;
    	 display:list-item;

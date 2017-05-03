@@ -111,7 +111,7 @@ header nav ul li a {
 	margin-right: 0px;
 }
 
-ul.a {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -119,12 +119,12 @@ ul.a {
     
 }
 
-li.a {
+li {
     float: left;
     border-right:1px solid #bbb;
 }
 
-li.a:last-child {
+li:last-child {
     border-right: none;
 }
 

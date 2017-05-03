@@ -156,8 +156,8 @@ color: #000000	;
 
 
 ul.b {
+	 float: left;
 	list-style-type: square;
-	background-color:red;
    	 display:list-item;
 
 }

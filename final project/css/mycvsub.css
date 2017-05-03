@@ -155,8 +155,9 @@ color: #000000	;
 }
 
 
-body article ul li {
-	
+ul.a {
+	list-style-type: square;
+
 }
 
 footer {

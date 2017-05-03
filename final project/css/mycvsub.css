@@ -162,6 +162,10 @@ ul.b {
 
 }
 
+li.b{
+    float: left;
+}
+
 footer {
 	padding: 60px 0;
 	

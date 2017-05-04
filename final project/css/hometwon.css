@@ -157,7 +157,8 @@ color: #000000	;
 
 #secondary-content {
 	padding: 60px 0;
-	text-align: center;
+	text-align: left;
+	font-size:20px;
 }
 
 #secondary-content article {

@@ -153,7 +153,18 @@ color: #000000	;
 	margin: 20px 0;
 }
 
+.image {
+   position: absolute;
+    top: 500px;
+    right: 42%;
+    width: 13%;
+    height: 100px;
+    border: 2px solid #73AD21;
+    margin: 0 auto;
+    padding: 3px;
+    background: #e8eced url('../images/prof.jpg') no-repeat center;
 
+}
 
 
 footer {

@@ -218,7 +218,7 @@ padding: 3px;
 .text2 {
 position: absolute;
     top: 400px;
-    right: -12%;
+    right: -10%;
     width: 40%;
     height: 52px;
     
@@ -230,7 +230,7 @@ padding: 3px;
 
 .box3 {
    position: absolute;
-    top: 280px;
+    top: 400px;
     right: 15%;
     width: 14%;
     height: 150px;
@@ -243,8 +243,8 @@ padding: 3px;
 
 .text3 {
 position: absolute;
-    top: 450px;
-    right: 1%;
+    top: 550px;
+    right: -10%;
     width: 40%;
     height: 52px;
     

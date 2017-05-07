@@ -230,7 +230,7 @@ color: #000000	;
     }
     
     #demo .wrapper:active .content {
-        height: 150px;
+        height: 123px;
         z-index: 3;
         -webkit-transition-delay: 0s;
     }
@@ -267,7 +267,7 @@ color: #000000	;
         color: #888;
         font-size: 14px;
         line-height: 30px;
-        height: 30px;
+        height: 60px;
         padding-left: 10px;
         border-top: 1px solid #ccc;
     }

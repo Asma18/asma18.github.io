@@ -50,7 +50,7 @@ h5 {
 	font-weight: bold;
 	text-transform: uppercase;
 }
-h6  {   
+h6  {   line-height: 20px;
 	font-size:"20";
 	margin-bottom: 20px;
 	color: blue;

@@ -157,9 +157,9 @@ color: #000000	;
 .box {
    position: absolute;
     top: 200px;
-    right: 20%;
-    width: 13%;
-    height: 100px;
+    right: 15%;
+    width: 14%;
+    height: 150px;
     border: 2px solid #73AD21;
     margin: 0 auto;
     padding: 3px;

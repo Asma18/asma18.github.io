@@ -203,19 +203,19 @@ padding: 3px;
 
 
 
-.box2 {
+.boxx {
    position: absolute;
-    top: 280px;
-    right: 20%;
+    top: 2600px;
+    right: 15%;
     width: 14%;
-    height: 150px;
+    height: 140px;
     border: 2px solid #73AD21;
     margin: 0 auto;
     padding: 3px;
     background: #e8eced url('../images/BU logo1.JPG') no-repeat center;
 
 }
-.text2 {
+.textt {
 position: absolute;
     top: 450px;
     right: 1%;

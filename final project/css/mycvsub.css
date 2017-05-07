@@ -190,6 +190,16 @@ padding: 3px;
 
 }
 
+.text1 {
+position: absolute;
+    top: 450px;
+    right: 1%;
+    width: 40%;
+    height: 52px;
+    
+    margin: 0 auto;
+padding: 3px;
+}
 .box2 {
    position: absolute;
     top: 280px;
@@ -203,6 +213,16 @@ padding: 3px;
 
 }
 
+.text2 {
+position: absolute;
+    top: 450px;
+    right: 1%;
+    width: 40%;
+    height: 52px;
+    
+    margin: 0 auto;
+padding: 3px;
+}
 .box3 {
    position: absolute;
     top: 280px;
@@ -216,6 +236,17 @@ padding: 3px;
 
 }
 
+.text3 {
+position: absolute;
+    top: 450px;
+    right: 1%;
+    width: 40%;
+    height: 52px;
+    
+    margin: 0 auto;
+padding: 3px;
+}
+
 .box4 {
    position: absolute;
     top: 280px;
@@ -226,6 +257,17 @@ padding: 3px;
     margin: 0 auto;
     padding: 3px;
 background: #e8eced url('../images/Christina_Rossetti_3.jpg') no-repeat center;
+}
+.text4 {
+position: absolute;
+    top: 450px;
+    right: 1%;
+    width: 40%;
+    height: 52px;
+    
+    margin: 0 auto;
+padding: 3px;
+}
 
 footer {
 	padding: 60px 0;

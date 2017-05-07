@@ -154,7 +154,7 @@ color: #000000	;
 	margin: 20px 0;
 }
 
-img {
+.box {
    position: absolute;
     top: 500px;
     right: 42%;

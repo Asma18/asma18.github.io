@@ -218,7 +218,7 @@ padding: 3px;
 
 .box4 {
    position: absolute;
-    top: 280px;
+    top: 240px;
     right: 15%;
     width: 14%;
     height: 150px;
@@ -229,7 +229,6 @@ background: #e8eced url('../images/Christina_Rossetti_3.jpg') no-repeat center;
 
 footer {
 	padding: 60px 0;
-	
 }
 
 #footer-info {
